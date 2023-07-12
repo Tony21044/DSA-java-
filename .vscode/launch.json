@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "classRoom",
+            "request": "launch",
+            "mainClass": "classRoom",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "GraphPT",
+            "request": "launch",
+            "mainClass": "GraphPT",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "GraphPT1",
+            "request": "launch",
+            "mainClass": "GraphPT1",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "graphPT1",
+            "request": "launch",
+            "mainClass": "graphPT1",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "dpPart6",
+            "request": "launch",
+            "mainClass": "dpPart6",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatement",
+            "request": "launch",
+            "mainClass": "ConditionalStatement",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "conditionlstmnt",
+            "request": "launch",
+            "mainClass": "conditionlstmnt",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DP3",
+            "request": "launch",
+            "mainClass": "DP3",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "DPpart5",
+            "request": "launch",
+            "mainClass": "DPpart5",
+            "projectName": ".vscode_925fceb5"
+        },
+        {
+            "type": "java",
+            "name": "tcGreddyAlgo",
+            "request": "launch",
+            "mainClass": "tcGreddyAlgo",
+            "projectName": ".vscode_925fceb5"
+        }
+    ]
+}
