@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ConditionalStatement {
+public class conditionlstmnt {
     //calc using switch stnt 
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);

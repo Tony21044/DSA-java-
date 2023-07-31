@@ -1,4 +1,4 @@
-/*import javax.sound.midi.Soundbank;
+import javax.sound.midi.Soundbank;
 
 public class DP {
     // DYNAMIC PROGRAMMING: THIS IS A WAY OF FINDING AND SOLVING SOLUTIONS IN A MORE EFFECTIVE MANNER WITH LESS AND MORE STABLE TIME COMPLEXITY.
@@ -76,7 +76,7 @@ public class DP {
             }
         }
         return dp[n];
-    }
+}
 
     //QUE = KNAPSACK - A carrya bag
     //Trying to get a more stable/ suffoceont way to solve this question.
